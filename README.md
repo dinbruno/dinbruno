@@ -1,11 +1,15 @@
   <h1> Hi! 👋 I'm Bruno Din </h1><br/>
   <p> • Software Developer </p>
   <p> • Eletrical engineer </p>
-  <p> • Electronic technician </p>
+  <p> • Electronic technician </p> 
 
 - 🛠️ i’m currently working on [Virtumed](https://virtumed.com.br/?lang=pt)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dinbruno&theme=bear&date_format=%5BY.%5Dn.j&border=FFFFFF&stroke=000000&ring=000000&fire=DDDDDD&dates=41C2DD&sideLabels=FFFFFF&currStreakLabel=DD1BAF&sideNums=41C2DD&currStreakNum=41C2DD)](https://git.io/streak-stats)</brl>
+<br/>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dinbruno&theme=bear&date_format=%5BY.%5Dn.j&border=FFFFFF&stroke=000000&ring=000000&fire=DDDDDD&dates=41C2DD&sideLabels=FFFFFF&currStreakLabel=DD1BAF&sideNums=41C2DD&currStreakNum=41C2DD)](https://git.io/streak-stats)
+
+</brl>
 
 
 <h3 align="left"> </h3>
