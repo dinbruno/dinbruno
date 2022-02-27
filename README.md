@@ -3,7 +3,7 @@
   <p> • Eletrical engineer ⚡ </p>
   <p> • Electronic technician 🔌  </p> 
 
-- 🛠️ i’m currently working on [Virtumed](https://virtumed.com.br/?lang=pt)
+- 🛠️ i’m currently working on <[Virtumed](https://virtumed.com.br/?lang=pt)>
 
 <br/>
 
