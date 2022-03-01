@@ -7,7 +7,7 @@
 
 <br/>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dinbruno&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=CFCFCF&border=000000&stroke=000000&ring=00000089&fire=FF00DC&currStreakNum=FFFFFF&sideNums=000000&currStreakLabel=000000&sideLabels=7A7A7A&dates=00000086)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dinbruno&hide_border=true&date_format=%5BY%20%5DM%20j&background=0D1117&stroke=CFCFCF&ring=777777&currStreakNum=FFFFFF&fire=D501DD&currStreakLabel=656565&sideLabels=FFFFFF&dates=DD07DC)](https://git.io/streak-stats)
 
 
 
