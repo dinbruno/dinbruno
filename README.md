@@ -1,5 +1,5 @@
   <h1> Hello! I'm Bruno Din </h1>
-  <p> • Software Developer 🖥️</p>
+  <p> • Software engineer 🖥️</p>
   <p> • Eletrical engineer ⚡ </p>
   <p> • Electronic technician 🔌  </p> 
 
