@@ -8,7 +8,6 @@
   <a href="https://www.legendevs.com.br"><img alt="legendevs.com.br" src="assets/badge-site.png" height="30"></a>
   <a href="https://www.linkedin.com/in/brunodin/"><img alt="LinkedIn" src="assets/badge-linkedin.png" height="30"></a>
   <a href="mailto:bruno@legendevs.com.br"><img alt="email" src="assets/badge-email.png" height="30"></a>
-  <a href="https://wa.me/5511983568718"><img alt="WhatsApp" src="assets/badge-whatsapp.png" height="30"></a>
 </p>
 
 ---
