@@ -25,18 +25,21 @@ Work shipped through Legendevs — custom platforms, not templates.
 
 | Project | What it is |
 | --- | --- |
+| **[Blue Sea Hotel](https://blueseahotel.com.br)** | Oceanfront hotel in Itapema — suites, events, and reservations on a surface that has to feel like the stay. |
+| **[Houser](https://houser.com)** | Home-services platform: instant estimate in 10 seconds, vetted pros, protected payment, AI + satellite. |
+| **[Linzmeyer Neto Advocacia](https://linzmeyer-website.vercel.app/)** | Law-firm site for Florianópolis and Curitiba — tradition, innovation, and a contact flow that converts. |
+| **[Verifica](https://apps.apple.com/br/app/verifica/id6754730030)** | iOS app that turns a receipt photo into a warranty record — AI extraction, expiry alerts, extended-warranty marketplace. |
+| **[Gênio Pro](https://portal.geniopro.com.br)** | Comex operations portal — every shipment from origin to destination, process and data under control. |
+| **[Aram Trust](https://aramtrust.com.br)** | Customs broker since 2013 — clearance, international freight, and Comex in plain language. |
 | **[TCA Transportes](https://www.tcatransportes.com.br/)** | Logistics platform with live tracking. |
 | **[FORCE YACHTS](https://forceyachts.com/)** | Luxury yacht site — gallery, quotes, the kind of surface that has to feel expensive. |
 | **[MEMORIZU](https://memorizu.com.br/)** | Product for keeping and sharing family memory. |
 | **[ÚNICA Mineração](https://www.unicamineracao.com.br/)** | Corporate portal with operations dashboard and technical reports. |
 | **[Hotel do Valle](https://www.hoteldovalle.com.br/)** | Booking, payments, and lodging in one flow. |
-| **[Blue Sea Hotel](https://blueseahotel.com.br/pt-BR)** | Seaside resort site with gallery and reservations. |
 | **[Colégio Espaço](https://www.colegioespaco.com.br/)** | School portal — student area, academic ops, family communication. |
 | **[VIDROFORT](https://www.vidrofort.com.br/)** | Institutional site for a 30-year glass company. |
 | **Aromas** | School-meal operations, end to end. In development. |
 | **FAST Translation** | Sworn-translation quotes, automated. In development. |
-
-On the side: **[Poupa.ai](https://poupa-ai.vercel.app)** · **[Hortifruti Fartura](https://hortifruti-fartura.vercel.app)** · **[Perfect Ecommerce](https://perfect-ecommerce-rho.vercel.app)** · **[Three.js studies](https://din-threejs.vercel.app/)**
 
 [Full archive →](https://www.legendevs.com.br/#clients)
 
