@@ -1,0 +1,15 @@
+{
+  "name": "github-profile",
+  "private": true,
+  "type": "module",
+  "description": "GitHub profile README for github.com/dinbruno — art generated from the Legendevs visual language.",
+  "scripts": {
+    "banner": "node scripts/gen-banner.mjs",
+    "badges": "node scripts/gen-badges.mjs",
+    "numbers": "node scripts/gen-numbers.mjs",
+    "art": "npm run banner && npm run badges && npm run numbers"
+  },
+  "devDependencies": {
+    "sharp": "^0.34.0"
+  }
+}
