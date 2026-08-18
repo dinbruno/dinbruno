@@ -25,7 +25,6 @@ Work shipped through Legendevs — custom platforms, not templates.
 | Project | What it is |
 | --- | --- |
 | **[Blue Sea Hotel](https://blueseahotel.com.br)** | Oceanfront hotel in Itapema — suites, events, and reservations on a surface that has to feel like the stay. |
-| **[Houser](https://houser.com)** | Home-services platform: instant estimate in 10 seconds, vetted pros, protected payment, AI + satellite. |
 | **[Linzmeyer Neto Advocacia](https://linzmeyer-website.vercel.app/)** | Law-firm site for Florianópolis and Curitiba — tradition, innovation, and a contact flow that converts. |
 | **[Verifica](https://apps.apple.com/br/app/verifica/id6754730030)** | iOS app that turns a receipt photo into a warranty record — AI extraction, expiry alerts, extended-warranty marketplace. |
 | **[Gênio Pro](https://portal.geniopro.com.br)** | Comex operations portal — every shipment from origin to destination, process and data under control. |
