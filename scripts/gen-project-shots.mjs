@@ -11,10 +11,10 @@ const SHOTS = [
   { file: "blue-sea", url: "https://blueseahotel.com.br" },
   { file: "houser", url: "https://houser.com", wait: 4000 },
   { file: "linzmeyer", url: "https://linzmeyer-website.vercel.app/", wait: 2800 },
-  { file: "verifica", url: "https://apps.apple.com/br/app/verifica/id6754730030" },
+  { file: "verifica", url: "https://verifica.app", wait: 4000 },
   { file: "genio-pro", url: "https://portal.geniopro.com.br" },
   { file: "aram-trust", url: "https://aramtrust.com.br", wait: 7000, scroll: true },
-  { file: "quidin", url: "https://quidin.com.br", wait: 4000 },
+  { file: "quidin", url: "https://www.quidin.com.br/", wait: 4000 },
   { file: "teteach", url: "https://teteach.legendevs.com.br" },
   { file: "tca", url: "https://www.tcatransportes.com.br/" },
   { file: "force-yachts", url: "https://forceyachts.com/" },
@@ -23,6 +23,7 @@ const SHOTS = [
   { file: "hotel-do-valle", url: "https://www.hoteldovalle.com.br/" },
   { file: "colegio-espaco", url: "https://www.colegioespaco.com.br/", wait: 5000 },
   { file: "vidrofort", url: "https://www.vidrofort.com.br/" },
+  { file: "cristalmar", url: "https://pousadacristalmar.com.br", wait: 4000 },
 ];
 
 const chrome =

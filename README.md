@@ -37,9 +37,9 @@ Work shipped through Legendevs — custom platforms, not templates.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://quidin.com.br"><img src="assets/projects/quidin.jpg" alt="Quidin" width="100%"></a>
-      <br><b><a href="https://quidin.com.br">Quidin</a></b>
-      <br>Digital platform built to turn data into results.
+      <a href="https://www.quidin.com.br/"><img src="assets/projects/quidin.jpg" alt="Quidin" width="100%"></a>
+      <br><b><a href="https://www.quidin.com.br/">Quidin</a></b>
+      <br>Chat to talk, voice that stays on, and Jam to listen together.
     </td>
     <td width="50%" valign="top">
       <a href="https://teteach.legendevs.com.br"><img src="assets/projects/teteach.jpg" alt="te.teach" width="100%"></a>
@@ -61,9 +61,9 @@ Work shipped through Legendevs — custom platforms, not templates.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://apps.apple.com/br/app/verifica/id6754730030"><img src="assets/projects/verifica.jpg" alt="Verifica" width="100%"></a>
-      <br><b><a href="https://apps.apple.com/br/app/verifica/id6754730030">Verifica</a></b>
-      <br>iOS app that turns a receipt photo into a warranty record.
+      <a href="https://verifica.app"><img src="assets/projects/verifica.jpg" alt="Verifica" width="100%"></a>
+      <br><b><a href="https://verifica.app">Verifica</a></b>
+      <br>Photograph the receipt. AI registers the warranty and warns you before it expires.
     </td>
     <td width="50%" valign="top">
       <a href="https://portal.geniopro.com.br"><img src="assets/projects/genio-pro.jpg" alt="Gênio Pro" width="100%"></a>
@@ -73,21 +73,9 @@ Work shipped through Legendevs — custom platforms, not templates.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://www.tcatransportes.com.br/"><img src="assets/projects/tca.jpg" alt="TCA Transportes" width="100%"></a>
-      <br><b><a href="https://www.tcatransportes.com.br/">TCA Transportes</a></b>
-      <br>Logistics platform with live tracking.
-    </td>
-    <td width="50%" valign="top">
       <a href="https://forceyachts.com/"><img src="assets/projects/force-yachts.jpg" alt="Force Yachts" width="100%"></a>
       <br><b><a href="https://forceyachts.com/">Force Yachts</a></b>
       <br>Luxury yacht site. Gallery, quotes, a surface that has to feel expensive.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://www.unicamineracao.com.br/"><img src="assets/projects/unica.jpg" alt="Única Mineração" width="100%"></a>
-      <br><b><a href="https://www.unicamineracao.com.br/">Única Mineração</a></b>
-      <br>Corporate portal with operations and technical presence.
     </td>
     <td width="50%" valign="top">
       <a href="https://www.hoteldovalle.com.br/"><img src="assets/projects/hotel-do-valle.jpg" alt="Hotel do Valle" width="100%"></a>
@@ -105,6 +93,25 @@ Work shipped through Legendevs — custom platforms, not templates.
       <a href="https://www.vidrofort.com.br/"><img src="assets/projects/vidrofort.jpg" alt="Vidrofort" width="100%"></a>
       <br><b><a href="https://www.vidrofort.com.br/">Vidrofort</a></b>
       <br>Institutional site for a glass company with more than 30 years in the market.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://pousadacristalmar.com.br"><img src="assets/projects/cristalmar.jpg" alt="Pousada Cristalmar" width="100%"></a>
+      <br><b><a href="https://pousadacristalmar.com.br">Pousada Cristalmar</a></b>
+      <br>Inn in Bombas, Bombinhas. Nine rooms, 400 meters from the beach, pet friendly.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.unicamineracao.com.br/"><img src="assets/projects/unica.jpg" alt="Única Mineração" width="100%"></a>
+      <br><b><a href="https://www.unicamineracao.com.br/">Única Mineração</a></b>
+      <br>Corporate portal with operations and technical presence.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.tcatransportes.com.br/"><img src="assets/projects/tca.jpg" alt="TCA Transportes" width="100%"></a>
+      <br><b><a href="https://www.tcatransportes.com.br/">TCA Transportes</a></b>
+      <br>Logistics platform with live tracking.
     </td>
   </tr>
 </table>
