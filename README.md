@@ -29,11 +29,6 @@ Work shipped through Legendevs — custom platforms, not templates.
       <br><b><a href="https://linzmeyer-website.vercel.app/">Linzmeyer Neto Advocacia</a></b>
       <br>Law firm in Florianópolis and Curitiba. Tradition, innovation, and a contact flow that converts.
     </td>
-    <td width="50%" valign="top">
-      <a href="https://aramtrust.com.br"><img src="assets/projects/aram-trust.jpg" alt="Aram Trust" width="100%"></a>
-      <br><b><a href="https://aramtrust.com.br">Aram Trust</a></b>
-      <br>Customs broker since 2013. Clearance, international freight, and Comex in plain language.
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -71,6 +66,11 @@ Work shipped through Legendevs — custom platforms, not templates.
       <br>Comex portal. Every shipment from origin to destination, under control.
     </td>
   </tr>
+      <td width="50%" valign="top">
+      <a href="https://aramtrust.com.br"><img src="assets/projects/aram-trust.jpg" alt="Aram Trust" width="100%"></a>
+      <br><b><a href="https://aramtrust.com.br">Aram Trust</a></b>
+      <br>Customs broker since 2013. Clearance, international freight, and Comex in plain language.
+    </td>
   <tr>
     <td width="50%" valign="top">
       <a href="https://forceyachts.com/"><img src="assets/projects/force-yachts.jpg" alt="Force Yachts" width="100%"></a>
